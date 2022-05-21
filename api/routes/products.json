@@ -1,0 +1,28 @@
+[
+    {
+        "id": 111,
+        "name": "Nike Shoes",
+        "price": 5000,
+        "color": "white"
+    },
+    {
+        "id": 121,
+        "name": "Rado Watch",
+        "price": 3000,
+        "color": "green"
+    },
+    {
+        "id": 131,
+        "name": "Moto Mobile",
+        "price": 500,
+        "color": "black"
+    },
+    {
+        "id": 141,
+        "name": "T shirt",
+        "price": 1400,
+        "color": "blue"
+    }
+]
+
+   
